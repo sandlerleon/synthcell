@@ -15,32 +15,7 @@ The codebase contains self-contained Python scripts that regenerate all figures 
 * **Statistical Mechanics Model**: A site-diluted XY model with a pinning field mapping the loss of chiral order to an equilibrium thermal phase transition.
 * **Sensitivity Analysis**: Scripts confirming parameter robustness across experimentally realistic timescales ($400$ randomly sampled parameter triples).
 
-## 🚀 Quick Start
-
-### Prerequisites
-* Python 3.8+
-* NumPy
-* SciPy
-* Matplotlib
-
-### Installation & Execution
-```bash
-# Clone the repository
-git clone https://github.com
-cd synthetic-cell-aging
-
-# Install dependencies
-pip install numpy scipy matplotlib
-
-# Run the primary simulation suite
-python run_all_simulations.py
-```
-
-## 🏷️ Keywords
-`synthetic-biology` `protocell-engineering` `homochirality` `molecular-scaffold` `non-enzymatic-glycation` `advanced-glycation-end-products` `information-theory-of-aging` `epigenetic-drift` `configurational-entropy` `circular-dichroism` `kinetic-monte-carlo` `site-diluted-xy-model` `phase-transition` `metabolic-aging` `spudcell`
-
-## 📄 License
-This project is licensed under the Creative Commons Attribution 4.0 International (CC BY 4.0) License.
-
+## 🔗 Repository Links
+* **Zenodo Deposit:** https://zenodo.org
 
 https://zenodo.org/uploads/21210277
